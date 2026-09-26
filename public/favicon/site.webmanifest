@@ -1,0 +1,16 @@
+{
+  "name": "Himanadh Sesha Sai Inampudi — AI Security & Governance",
+  "short_name": "Himanadh",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#050a14",
+  "background_color": "#050a14",
+  "icons": [
+    {
+      "src": "/favicon/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
